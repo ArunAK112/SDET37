@@ -10,6 +10,7 @@ public class Demo2Test {
 	{
 		Reporter.log("TestDemo4",true);
 		Reporter.log("I love purple colour", true);
+		Reporter.log("Testing",true);
 	}
 	
 	@Test
