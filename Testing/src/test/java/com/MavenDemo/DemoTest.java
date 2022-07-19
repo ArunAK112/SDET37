@@ -10,6 +10,7 @@ public class DemoTest {
 		System.out.println(System.getProperty("url"));
 		System.out.println(System.getProperty("name"));
 
+		
 	}
 	
 	@Test
