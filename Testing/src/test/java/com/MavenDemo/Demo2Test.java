@@ -21,7 +21,7 @@ public class Demo2Test {
 	@Test
 	public void createDemo6()
 	{
-		Reporter.log("TestDemo6",true);
+		Reporter.log("TestDemoo6",true);
 	}
 
 }
