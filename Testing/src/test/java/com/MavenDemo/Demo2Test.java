@@ -9,7 +9,7 @@ public class Demo2Test {
 	public void createDemo4()
 	{
 		Reporter.log("TestDemo4",true);
-		Reporter.log("I love purplecolour", true);
+		Reporter.log("I love purple colour", true);
 	}
 	
 	@Test
