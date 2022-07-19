@@ -9,7 +9,6 @@ public class DemoTest {
 	{
 		System.out.println(System.getProperty("url"));
 		System.out.println(System.getProperty("name"));
-		Reporter.log("TestDemo1",true);
 	}
 	
 	@Test
