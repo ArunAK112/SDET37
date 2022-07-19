@@ -9,17 +9,7 @@ public class DemoTest {
 	{
 		System.out.println(System.getProperty("url"));
 		System.out.println(System.getProperty("name"));
-		//iam going to do some changes in this arun branch and check whether it is going to upload it to the master branch
-		//another change
-		//again change
 		
-		//changing in github 5:20
-		
-		//chamge in github 5:25
-    
-		//again some change in github
-		
-		//chamges made in github master
 	}
 	
 	@Test
