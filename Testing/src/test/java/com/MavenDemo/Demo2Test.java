@@ -23,6 +23,8 @@ public class Demo2Test {
 	public void createDemo6()
 	{
 		Reporter.log("TestDemoo6",true);
+		
+		
 	}
 
 }
