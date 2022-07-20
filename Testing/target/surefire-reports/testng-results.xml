@@ -26,12 +26,12 @@
       <![CDATA[Abishek is good boy]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-07-19T09:40:54Z" name="Suite" finished-at="2022-07-19T09:40:54Z" duration-ms="93">
+  <suite started-at="2022-07-20T10:20:37Z" name="Suite" finished-at="2022-07-20T10:20:37Z" duration-ms="49">
     <groups>
     </groups>
-    <test started-at="2022-07-19T09:40:54Z" name="Test" finished-at="2022-07-19T09:40:54Z" duration-ms="93">
+    <test started-at="2022-07-20T10:20:37Z" name="Test" finished-at="2022-07-20T10:20:37Z" duration-ms="49">
       <class name="com.MavenDemo.Demo2Test">
-        <test-method signature="createDemo4()[pri:0, instance:com.MavenDemo.Demo2Test@30c93896]" started-at="2022-07-19T15:10:54Z" name="createDemo4" finished-at="2022-07-19T15:10:54Z" duration-ms="3" status="PASS">
+        <test-method signature="createDemo4()[pri:0, instance:com.MavenDemo.Demo2Test@30c93896]" started-at="2022-07-20T15:50:37Z" name="createDemo4" finished-at="2022-07-20T15:50:37Z" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[TestDemo4]]>
@@ -44,14 +44,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- createDemo4 -->
-        <test-method signature="createDemo5()[pri:0, instance:com.MavenDemo.Demo2Test@30c93896]" started-at="2022-07-19T15:10:54Z" name="createDemo5" finished-at="2022-07-19T15:10:54Z" duration-ms="1" status="PASS">
+        <test-method signature="createDemo5()[pri:0, instance:com.MavenDemo.Demo2Test@30c93896]" started-at="2022-07-20T15:50:37Z" name="createDemo5" finished-at="2022-07-20T15:50:37Z" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[TestDemo5]]>
             </line>
           </reporter-output>
         </test-method> <!-- createDemo5 -->
-        <test-method signature="createDemo6()[pri:0, instance:com.MavenDemo.Demo2Test@30c93896]" started-at="2022-07-19T15:10:54Z" name="createDemo6" finished-at="2022-07-19T15:10:54Z" duration-ms="38" status="PASS">
+        <test-method signature="createDemo6()[pri:0, instance:com.MavenDemo.Demo2Test@30c93896]" started-at="2022-07-20T15:50:37Z" name="createDemo6" finished-at="2022-07-20T15:50:37Z" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[TestDemoo6]]>
@@ -60,18 +60,18 @@
         </test-method> <!-- createDemo6 -->
       </class> <!-- com.MavenDemo.Demo2Test -->
       <class name="com.MavenDemo.DemoTest">
-        <test-method signature="createDemo1()[pri:0, instance:com.MavenDemo.DemoTest@3f91b517]" started-at="2022-07-19T15:10:54Z" name="createDemo1" finished-at="2022-07-19T15:10:54Z" duration-ms="14" status="PASS">
+        <test-method signature="createDemo1()[pri:0, instance:com.MavenDemo.DemoTest@3f91b517]" started-at="2022-07-20T15:50:37Z" name="createDemo1" finished-at="2022-07-20T15:50:37Z" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createDemo1 -->
-        <test-method signature="createDemo2()[pri:0, instance:com.MavenDemo.DemoTest@3f91b517]" started-at="2022-07-19T15:10:54Z" name="createDemo2" finished-at="2022-07-19T15:10:54Z" duration-ms="2" status="PASS">
+        <test-method signature="createDemo2()[pri:0, instance:com.MavenDemo.DemoTest@3f91b517]" started-at="2022-07-20T15:50:37Z" name="createDemo2" finished-at="2022-07-20T15:50:37Z" duration-ms="6" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[TestDemo2]]>
             </line>
           </reporter-output>
         </test-method> <!-- createDemo2 -->
-        <test-method signature="createDemo3()[pri:0, instance:com.MavenDemo.DemoTest@3f91b517]" started-at="2022-07-19T15:10:54Z" name="createDemo3" finished-at="2022-07-19T15:10:54Z" duration-ms="1" status="PASS">
+        <test-method signature="createDemo3()[pri:0, instance:com.MavenDemo.DemoTest@3f91b517]" started-at="2022-07-20T15:50:37Z" name="createDemo3" finished-at="2022-07-20T15:50:37Z" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[TestDemo3]]>
@@ -80,7 +80,7 @@
         </test-method> <!-- createDemo3 -->
       </class> <!-- com.MavenDemo.DemoTest -->
       <class name="com.MavenDemo.Demo3Test">
-        <test-method signature="demoNew()[pri:0, instance:com.MavenDemo.Demo3Test@59a008ba]" started-at="2022-07-19T15:10:54Z" name="demoNew" finished-at="2022-07-19T15:10:54Z" duration-ms="3" status="PASS">
+        <test-method signature="demoNew()[pri:0, instance:com.MavenDemo.Demo3Test@59a008ba]" started-at="2022-07-20T15:50:37Z" name="demoNew" finished-at="2022-07-20T15:50:37Z" duration-ms="0" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Abishek is good boy]]>
