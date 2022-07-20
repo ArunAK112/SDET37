@@ -6,6 +6,7 @@
       <class name="com.MavenDemo.DemoTest"/>
       <class name="com.MavenDemo.Demo2Test"/>
       <class name="com.MavenDemo.Demo3Test"/>
+      <class name="com.MavenDemo.JenkinsParameterizationTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
